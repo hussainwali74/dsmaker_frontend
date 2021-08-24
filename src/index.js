@@ -10,6 +10,7 @@ import { getToken, TOKEN } from "./helpers/auth"
 // ========================================================================
 // server
 axios.defaults.baseURL = "https://roomie.pk:5000/"
+// axios.defaults.baseURL = "http://roomie.pk:5000/"
 // local
 // axios.defaults.baseURL = "http://localhost:5000/"
 
